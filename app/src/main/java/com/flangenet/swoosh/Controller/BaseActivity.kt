@@ -1,4 +1,4 @@
-package com.flangenet.swoosh
+package com.flangenet.swoosh.Controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
